@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        ".DS_Store": true,
+        ".git": true,
+        "build": true,
+        "node_modules": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.rulers": [100]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fetch-vs-xhr-perf",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "http-server"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "http-server": "^0.10.0",
+    "lodash": "^4.17.4"
+  }
+}
